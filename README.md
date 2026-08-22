@@ -58,3 +58,7 @@ Units × Unit Price × (1 − Discount)
 ## Tools
 
 Power BI Desktop, Power Query, DAX and Excel
+
+## screenshot
+*Interactive sales dashboard developed using Power BI, Power Query and DAX.*
+[![Power BI Sales Analytics Dashboard](https://pwt-bucket-s3.s3.us-east-1.amazonaws.com/power-bi-sales-dashboard.png)](https://pwt-bucket-s3.s3.us-east-1.amazonaws.com/power-bi-sales-dashboard.png)
