@@ -61,7 +61,7 @@ Power BI Desktop, Power Query, DAX and Excel
 
 ## screenshot
 *Interactive sales dashboard developed using Power BI, Power Query and DAX.*
-[![Power BI Sales Analytics Dashboard](https://pwt-bucket-s3.s3.us-east-1.amazonaws.com/power-bi-sales-dashboard.png)](https://pwt-bucket-s3.s3.us-east-1.amazonaws.com/power-bi-sales-dashboard.png)
+https://pwt-bucket-s3.s3.us-east-1.amazonaws.com/power-bi-sales-dashboard.png)](https://pwt-bucket-s3.s3.us-east-1.amazonaws.com/power-bi-sales-dashboard.png
 
 ## publish report
 [![Power BI Sales Analytics Dashboard on web](https://app.powerbi.com/reportEmbed?reportId=76c88b00-599b-48e3-9151-15247d1a6a70&autoAuth=true&ctid=5ba5ef5e-3109-4e77-85bd-cfeb0d347e82)]
